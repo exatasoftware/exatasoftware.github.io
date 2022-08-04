@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+## ** Ocorrência **     ##
+Ao realizar o envio da NF-e é retornada a mensagem ** "Emissor não habilitado para emissão da NF-e" **.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## ** Causa ** ##
+O emitente não está habilitado na SEFAZ para realizar emissão de NF-e. 
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## ** Solução ** ##
+Acesse o [Cadastro Centralizado de Contribuinte (CCC)](https://dfe-portal.svrs.rs.gov.br/NFE/CCC) e informe os dados da empresa emitente. Caso a ** Situação IE ** esteja como ** Não Habilitado ** entre em contato com o contador.
