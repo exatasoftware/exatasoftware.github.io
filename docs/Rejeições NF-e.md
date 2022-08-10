@@ -2,8 +2,8 @@
 | --- | --- |
 | <center> 142 </center> |	Ambiente de Contingência EPEC bloqueado para o Emitente  |
 | <center> 201 </center> |	Número máximo de numeração a inutilizar ultrapassou o limite  |
-| <center> 203 </center> |	Emissor não habilitado para emissão da NF-e  |
-| <center> 204 </center> |	Duplicidade de NF-e [nRec:999999999999999]  |
+| <center> 203 </center> |	[Emissor não habilitado para emissão da NF-e](https://exatasoftware.github.io/203/)  |
+| <center> 204 </center> |	[Duplicidade de NF-e [nRec:999999999999999]](https://exatasoftware.github.io/204/)  |
 | <center> 205 </center> |	NF-e está denegada na base de dados da SEFAZ [nRec: 999999999999999]  |
 | <center> 206 </center> |	NF-e já está inutilizada na Base de Dados da SEFAZ  |
 | <center> 207 </center> |	CNPJ do emitente inválido  |
