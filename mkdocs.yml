@@ -3,5 +3,6 @@ site_url: https://example.com/
 nav:
   - Home: index.md
   - Rejeições NF-e: Rejeições NF-e.md
+  - 203 - Emissor não habilitado para emissão da NF-e: 203.md
   - About: about.md
 theme: material
