@@ -4,5 +4,6 @@ nav:
   - Home: index.md
   - Rejeições NF-e: Rejeições NF-e.md
   - 203 - Emissor não habilitado para emissão da NF-e: 203.md
+  - 204 - Duplicidade de NF-e [nRec:999999999999999]: 204.md
   - About: about.md
 theme: material
