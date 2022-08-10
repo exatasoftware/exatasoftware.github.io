@@ -1,5 +1,5 @@
 | <center>Cód</center> | <center>Ocorrência</center> |
-| --- | --- |
+| :----------: | :------------------ |
 | <center> 142 </center> |	Ambiente de Contingência EPEC bloqueado para o Emitente  |
 | <center> 201 </center> |	Número máximo de numeração a inutilizar ultrapassou o limite  |
 | <center> 203 </center> |	[Emissor não habilitado para emissão da NF-e](https://exatasoftware.github.io/203/)  |
