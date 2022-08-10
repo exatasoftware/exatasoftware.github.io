@@ -2,5 +2,6 @@ site_name: MkLorum
 site_url: https://example.com/
 nav:
   - Home: index.md
+  - Rejeições NF-e: Rejeições NF-e.md
   - About: about.md
 theme: material
