@@ -2,9 +2,10 @@ site_name: MkLorum
 site_url: https://example.com/
 nav:
   - Home: index.md
-  - Rejeições NF-e: Rejeições NF-e.md
-  - 203 - Emissor não habilitado para emissão da NF-e: 203.md
-  - 204 - Duplicidade de NF-e [nRec:999999999999999]: 204.md
+  - Rejeições NF-e:
+    - Índice: Índice.md
+    - 203 - Emissor não habilitado para emissão da NF-e: 203.md
+    - 204 - Duplicidade de NF-e [nRec:999999999999999]: 204.md
   - Como consultar NF-e: Consultar NF-e.md
   - About: about.md
 theme: material

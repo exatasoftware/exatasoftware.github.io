@@ -1,5 +1,5 @@
 Acesse o menu Movimentação > Emissão de nota fiscal
-![minha imagem](Tela inicial.PNG)
+![minha imagem](Imagens/Tela inicial.PNG)
 
 Selecione a(s) NF-e(s) pendente(s) 
 ![minha imagem](Tela NFs pendentes.jpg)
