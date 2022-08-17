@@ -21,6 +21,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://example.com/210/</loc>
+         <lastmod>2022-08-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://example.com/Consultar%20NF-e/</loc>
          <lastmod>2022-08-17</lastmod>
          <changefreq>daily</changefreq>
